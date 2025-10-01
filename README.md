@@ -89,7 +89,6 @@ Here are some ideas to get you started:
 
 ## 📫 Contact Me
 - Email: yoonjinij@gmail.com 
-- GitHub: [https://github.com/yoonjin](https://github.com/yoonjin)
 
 ---
 
