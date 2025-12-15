@@ -21,74 +21,52 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
 
-<div align="center">
+## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="200" style="border:2px solid #f2f2f2; border-radius:15px; padding:15px;">
-      <h3>🖼️ Frontend</h3>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <br>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    </td>
-    <td align="center" width="200" style="border:2px solid #f2f2f2; border-radius:15px; padding:15px;">
-      <h3>⚙️ Backend</h3>
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    </td>
-    <td align="center" width="200" style="border:2px solid #f2f2f2; border-radius:15px; padding:15px;">
-      <h3>🗄️ Database</h3>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" style="border:2px solid #f2f2f2; border-radius:15px; padding:15px;">
-      <h3>🎨 Design</h3>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    </td>
-    <td align="center" width="200" style="border:2px solid #f2f2f2; border-radius:15px; padding:15px;">
-      <h3>🤝 Collaboration</h3>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <br>
-      <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
-    </td>
-    <td align="center" width="200" style="border:2px solid #f2f2f2; border-radius:15px; padding:15px;">
-      <h3>🧰 Tools & IDE</h3>
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/> <br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-</div>
+### Backend
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-
-
-
-## ✨ Fun Stats
-
-![yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjin&show_icons=true&theme=radical&hide_title=true)
-![yoonjin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjin&layout=compact&theme=radical)
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-
-# 📁 Featured Projects
-
-> ### 🐿️ Squirrel Logistics - Team Project
-> 풀스택 물류 매칭 플랫폼 – 팀 프로젝트 (Company 모듈 담당)  
-> - **내 역할**  
->   - 성능 최적화: 
->      
-> - 🔗 [팀 레포지토리 링크][link-squirrel-team]
-> - 🔗 [개인 기여 레포지토리 링크]  (연결 예정)
-
-
-## 📫 Contact Me
-- Email: yoonjinij@gmail.com 
+## 📜 Certification
+- **SQLD (SQL Developer)** | 한국데이터산업진흥원 | **2025**
 
 ---
 
+## 📌 Featured Project
+
+### 🚚 Squirrel Logistics (Team Project)
+**화물 운송 매칭 플랫폼 | Full-Stack**
+
+- 화주–기사–관리자가 하나의 시스템에서 운송 전 과정을 관리하는 웹 서비스
+- 실시간 위치 추적, 2단계 정산, 경유지 기반 경로 최적화 기능 구현
+
+**My Role**
+- 출발/도착 + 최대 3개 경유지를 반영한 **예상 운임 자동 산출 기능** 구현
+- 전체 요청 / 평점·필터 기반 **지명 요청 기능** 설계
+- 마이페이지(회원정보·배송내역) 및 계정 유형별 인증 흐름 구현
+
+🔗 Team Repository: [link-squirrel-team]  
+🔗 Personal Contribution Repository: (추가 예정)
+
+---
+
+## 📊 GitHub Stats
+![Yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoonjin03&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoonjin03&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- 📧 Email: yoonjinij@gmail.com
