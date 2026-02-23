@@ -53,9 +53,6 @@
 
 📘 **정보처리기사 취득 준비 중**
 
-## 📊 GitHub Stats
-![Yoonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoonjin03&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoonjin03&layout=compact&theme=tokyonight)
 
 ---
 
